@@ -2,14 +2,14 @@
 A Python-based file transfer application that allows users to send multiple files from a client to a server using socket programming. The application features a graphical user interface (GUI) for easy file selection and transfer and uses a simple server to receive and store the files on the server side.
 
 ## Table of Contents
-- [Problem Statement](#problemstatement)
+- [Problem Statement](#problem-statement)
 - [Introduction](#introduction)
 - [Features](#features)
-- [Technologies Used](#technologiesused)
+- [Technologies Used](#technologie-sused)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Working of the Application (Socket Programming)](#workingoftheapplicationsocketprogramming)
-- [Error Handling](#errorhandling)
+- [Working of the Application (Socket Programming)](#working-of-the-application-socketprogramming)
+- [Error Handling](#error-handling)
 - [Contact](#contact)
 
 ## Problem Statement
