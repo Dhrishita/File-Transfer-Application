@@ -8,7 +8,7 @@ A Python-based file transfer application that allows users to send multiple file
 - [Technologies Used](#technologie-sused)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Working of the Application (Socket Programming)](#working-of-the-application-socketprogramming)
+- [Working of the Application (Socket Programming)](#working-of-the-application-(socketprogramming))
 - [Error Handling](#error-handling)
 - [Contact](#contact)
 
